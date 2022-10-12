@@ -65,4 +65,3 @@ Feel free to connect with me for any project, question, etc. on:
 - Email - lloydobligado@gmail.com
 - LinkedIn - [Lloyd Carie M. Obligado](https://www.linkedin.com/in/lloyd-carie-obligado-0b659a18a/)
 
-⭐️ 
