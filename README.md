@@ -13,7 +13,7 @@
 - ✍️ &nbsp; Pursuing to be a Frontend Developer.
 - 🌱 &nbsp; I’m currently learning 
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js) 
-![ASP](https://img.shields.io/badge/-Classic%20ASP-333333?style=flat&logo=ASP) 
+![Classic ASP](https://img.shields.io/badge/-Classic%20ASP-333333?style=flat&logo=.net) 
 - 📫 &nbsp; How to reach me: email me lloydobligado@gmail.com
 
 
@@ -37,6 +37,7 @@
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=Microsoft%20SQL%20Server)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
