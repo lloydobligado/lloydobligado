@@ -22,7 +22,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![VB.net](https://img.shields.io/badge/-Vb.net-333333?style=flat&logo=vb.net)
+  ![VB.net](https://img.shields.io/badge/-VBScript-333333?style=flat&logo=.net)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 - 🌐 &nbsp;
