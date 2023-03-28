@@ -34,6 +34,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
   ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify)
+   ![Codeigniter](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=codeigniter)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
