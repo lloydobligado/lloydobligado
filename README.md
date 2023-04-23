@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br>💼   Currently working on Intercommerce Network Services Inc.<br>🎓   Software Engineer.<br>✍️   Pursuing to be a Frontend Developer.<br>🌱   I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) --><br>📫   How to reach me: email me lloydobligado@gmail.com<br>
+<br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br>💼   Currently working on Intercommerce Network Services Inc.<br>🎓   Software Engineer.<br>✍️   Pursuing to be a Frontend Developer.<br>🌱   I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) <!-- ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) --><br>📫   How to reach me: email me lloydobligado@gmail.com<br>
 
 
 ## 🌐 Socials:
