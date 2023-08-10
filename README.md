@@ -1,7 +1,7 @@
 ![Header](https://github.com/lloydobligado/lloydobligado/blob/main/github-cover.png "Header")
 
 ## 💫 About Me:
-🤔   Exploring new technologies and developing software solutions and quick hacks.<br>💼   Currently working on Intercommerce Network Services Inc.<br>🎓   Software Engineer.<br>✍️   Pursuing to be a Frontend Developer.<br>🌱   I’m currently learning  ![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=flat-square&logo=typescript&logoColor=%2361DAFB) <!-- ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) -->
+🤔   Exploring new technologies and developing software solutions and quick hacks.<br>💼   Currently working on Intercommerce Network Services Inc.<br>🎓   Software Engineer.<br>✍️   Pursuing to be a Frontend Developer.<br>🌱   I’m currently learning  ![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=flat-square&logo=typescript&logoColor=%2361DAFB) <!-- ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) --> 
 
 ## 📫 How to reach me:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/lloydobligado) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/lloydcarie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ohohcarie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lloyd-carie-obligado-0b659a18a) 
