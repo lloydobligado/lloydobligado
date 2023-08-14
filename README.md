@@ -3,15 +3,15 @@
 ## 💫 About Me:
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 💼 Currently working at Intercommerce Network Services Inc.
-- 🎓 Software Engineer.
-- ✍️ Pursuing to be a Frontend Developer.
+- 👨‍💻 Software Engineer / Frontend Developer.
 - 🌱 Currently learning **Typescript**. <!-- ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) --> 
 
 ## 📫 How to reach me:
-[![Behance](https://img.shields.io/badge/Behance-f5f5f5?style=flat-square&logo=behance&logoColor=121212)](https://behance.net/lloydobligado)
-[![Facebook](https://img.shields.io/badge/Facebook-f5f5f5?style=flat-square&logo=Facebook&logoColor=121212)](https://facebook.com/lloydcarie)
-[![Instagram](https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=Instagram&logoColor=121212)](https://instagram.com/ohohcarie)
+[![Gmail](https://img.shields.io/badge/Gmail-f5f5f5?style=flat-square&logo=Gmail&logoColor=121212)](mailto:lloydobligado@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f5f5f5?style=flat-square&logo=linkedin&logoColor=121212)](https://linkedin.com/in/lloyd-carie-obligado-0b659a18a)
+[![Instagram](https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=Instagram&logoColor=121212)](https://instagram.com/loideu_kaeli)
+[![Behance](https://img.shields.io/badge/Behance-f5f5f5?style=flat-square&logo=behance&logoColor=121212)](https://behance.net/lloydobligado)
+<!-- [![Facebook](https://img.shields.io/badge/Facebook-f5f5f5?style=flat-square&logo=Facebook&logoColor=121212)](https://facebook.com/lloydcarie) -->
 
 ## 🔨 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-f5f5f5?style=flat-square&logo=html5&logoColor=121212&labelColor=f5f5f5&label=%20)
