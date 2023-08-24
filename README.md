@@ -4,7 +4,7 @@
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 💼 Currently working at Intercommerce Network Services Inc.
 - 👨‍💻 Software Engineer / Frontend Developer.
-- 🌱 Currently learning **Typescript**. <!-- ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) --> 
+- 🌱 Currently learning **Typescript**. <!-- ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) -->
 
 ## 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-f5f5f5?style=flat-square&logo=Gmail&logoColor=121212)](mailto:lloydobligado@gmail.com)
