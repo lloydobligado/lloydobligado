@@ -4,7 +4,7 @@
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 💼 Currently working at Intercommerce Network Services Inc.
 - 👨‍💻 Software Engineer / Frontend Developer.
-- 🌱 Currently learning **Typescript**. <!-- ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) -->
+- 🌱 Currently learning **Typescript** and **NextJS**. <!-- ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) -->
 
 ## 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-f5f5f5?style=flat-square&logo=Gmail&logoColor=121212)](mailto:lloydobligado@gmail.com)
@@ -17,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-f5f5f5?style=flat-square&logo=html5&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![CSS3](https://img.shields.io/badge/CSS3-f5f5f5?style=flat-square&logo=css3&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=javascript&logoColor=121212&labelColor=f5f5f5&label=%20)
+![Typescript](https://img.shields.io/badge/typescript-f5f5f5?style=flat-square&logo=typescript&logoColor=121212&label=%20)
 ![PHP](https://img.shields.io/badge/PHP-f5f5f5?style=flat-square&logo=php&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![jQuery](https://img.shields.io/badge/jQuery-f5f5f5?style=flat-square&logo=jquery&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![NPM](https://img.shields.io/badge/NPM-f5f5f5?style=flat-square&logo=npm&logoColor=121212&labelColor=f5f5f5&label=%20)
@@ -35,7 +36,6 @@
 ![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=flat-square&logo=figma&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![Canva](https://img.shields.io/badge/Canva-f5f5f5?style=flat-square&logo=Canva&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![Vercel](https://img.shields.io/badge/Vercel-f5f5f5?style=flat-square&logo=vercel&logoColor=121212&labelColor=f5f5f5&label=%20)
-<!-- ![Typescript](https://img.shields.io/badge/typescript-f5f5f5?style=flat-square&logo=typescript&logoColor=121212&label=%20) -->
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)  --> 
 <!--  ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) --> 
 <!--  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) -->  
