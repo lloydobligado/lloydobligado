@@ -28,6 +28,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-f5f5f5?style=flat-square&logo=vuedotjs&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![Vuetify](https://img.shields.io/badge/Vuetify-f5f5f5?style=flat-square&logo=vuetify&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f5f5f5?style=flat-square&logo=tailwind-css&logoColor=121212&labelColor=f5f5f5&label=%20)
+![Laravel](https://img.shields.io/badge/Laravel-f5f5f5?style=flat-square&logo=laravel&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-f5f5f5?style=flat-square&logo=codeIgniter&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![Apache](https://img.shields.io/badge/Apache-f5f5f5?style=flat-square&logo=apache&logoColor=121212&labelColor=f5f5f5&label=%20)
 ![MariaDB](https://img.shields.io/badge/MariaDB-f5f5f5?style=flat-square&logo=mariadb&logoColor=121212&labelColor=f5f5f5&label=%20)
